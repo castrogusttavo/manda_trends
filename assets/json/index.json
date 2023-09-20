@@ -1,0 +1,55 @@
+{
+    "header": {
+        "banner": "assets/img/banner_grande.png"
+    },
+    "carousel": {
+        "images": [
+            {
+                "url": "assets/img/nrf.png",
+                "title": "NRF 2020: conheça os tops 5 assuntos do evento",
+                "description": "O maior evento sobre varejo do mundo mostrando tendências, oportunidades e inovações no setor.",
+                "source": "Fonte: CMO ADOBE",
+                "link": "nrf.php"
+            },
+            {
+                "url": "assets/img/moto_razer.png",
+                "title": "Motorola RAZR: Revival do Clássico Catapulta a Marca para o Futuro",
+                "description": "O icônico Motorola RAZR retorna em grande estilo, combinando nostalgia com inovação.",
+                "source": "Fonte: CMO ADOBE",
+                "link": "razr.php"
+            },
+            {
+                "url": "assets/img/moto_antigo.png",
+                "title": "O Avanço Tecnológico dos Smartphones Motorola",
+                "description": "Como a Motorola tem liderado o caminho na inovação de smartphones.",
+                "source": "Fonte: CMO ADOBE",
+                "link": "motorola.php"
+            }
+        ],
+        "carousel_controls": {
+            "prev_text": "Previous",
+            "next_text": "Next"
+        }
+    },
+    "cards": [
+        {
+            "url": "nba.php",
+            "image": "assets/img/nba.jpg",
+            "title": "Petição para colocar Kobe Bryant no logo do NBA.",
+            "source": "Fonte: Daily Mail",
+            "line": "line_nba"
+        },
+        {
+            "url": "whatsapp.php",
+            "image": "assets/img/zapzap.png",
+            "title": "WhatsApp terá função de pagamento em 2020.",
+            "source": "Fonte: Proxxima",
+            "line": "line_zapzap"
+        }
+    ],
+    "footer": {
+        "image": "assets/img/footer.png",
+        "copyright": "Copyright ® Mandarin. Todos os direitos reservados.",
+        "unsubscribe_link": "Caso não deseje mais receber nossos e-mails, por favor clique aqui."
+    }
+}
